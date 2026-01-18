@@ -1,6 +1,8 @@
 # LLM Book Recommender
 
 A semantic book recommendation system designed to find books based on natural language queries, categories, and emotional tones.
+<img width="1916" height="902" alt="image" src="https://github.com/user-attachments/assets/2c04e1b4-668a-4d69-9379-a6c783cdbc6e" />
+
 
 ## Description
 
